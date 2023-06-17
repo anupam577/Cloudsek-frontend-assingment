@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./styles.css";
 import Grid from "./components/grid";
-
+// this is a app.js file
 export default function App() {
   const gridBase = {
     cells: 5,
